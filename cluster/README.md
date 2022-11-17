@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Start
 
 Bedrock automates Kubernetes cluster deployments with Terraform to provide full reproducibility of cluster operations.
 
